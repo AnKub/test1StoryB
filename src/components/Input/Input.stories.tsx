@@ -57,7 +57,7 @@ export const PasswordInput: Story = {
 export const PasswordWithClear: Story = {
   args: {
     type: 'password',
-    placeholder: 'Password with clear',
+    placeholder: 'Password clear',
     clearable: true,
     value: 'standWithUA',
   },
