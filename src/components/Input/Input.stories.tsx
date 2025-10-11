@@ -59,7 +59,7 @@ export const PasswordWithClear: Story = {
     type: 'password',
     placeholder: 'Password with clear',
     clearable: true,
-    value: 'mypassword',
+    value: 'standWithUA',
   },
 };
 
