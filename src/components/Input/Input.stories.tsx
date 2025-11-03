@@ -73,7 +73,7 @@ export const NumberInput: Story = {
 };
 
 
-// Демо 
+
 export const AllVariants: Story = {
   render: () => (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', width: '300px' }}>
